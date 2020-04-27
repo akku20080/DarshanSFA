@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.darshansfa.Activities.AddUpdateNoteActivity">
+
+
+    <EditText
+        android:id="@+id/edTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/border_gray_bg_white"
+        android:hint="Enter title"
+        android:padding="8dp"
+        android:textColorHint="@color/light_gray" />
+
+    <EditText
+        android:id="@+id/edContent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/edTitle"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/border_gray_bg_white"
+        android:gravity="start"
+        android:hint="Enter content"
+        android:padding="8dp"
+        android:textColorHint="@color/light_gray" />
+
+
+    <TextView
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="8dp"
+        android:background="@color/app_themes"
+        android:gravity="center"
+        android:padding="8dp"
+
+        android:text="Save"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+</RelativeLayout>

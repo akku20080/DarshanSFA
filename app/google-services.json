@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132628277417",
+    "firebase_url": "https://darshan-sfa.firebaseio.com",
+    "project_id": "darshan-sfa",
+    "storage_bucket": "darshan-sfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132628277417:android:9523820f16855ad73421b8",
+        "android_client_info": {
+          "package_name": "com.darshansfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132628277417-q1d9h9mlaqftaqfe634p0ikffs18264j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsKXKyNM4SA7Bup8TDgMYducDRHmStKpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132628277417-q1d9h9mlaqftaqfe634p0ikffs18264j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.darshansfa.Activities.RetailerDetailTabActivity">
+    <item
+        android:id="@+id/sync"
+        android:icon="@drawable/ic_sync"
+        android:orderInCategory="100"
+        android:title="@string/app_name"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/retailer"
+        android:icon="@drawable/ic_date"
+        android:orderInCategory="101"
+        android:title="@string/app_name"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_map"
+        android:orderInCategory="101"
+        android:title="@string/app_name"
+        app:showAsAction="always" />
+
+
+</menu>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.darshansfa.Activities.CreatePJPDayWiseActivity">
+    <item
+        android:id="@+id/sync"
+        android:icon="@drawable/ic_sync"
+        android:orderInCategory="100"
+        android:title="Sync"
+        app:showAsAction="always" />
+</menu>

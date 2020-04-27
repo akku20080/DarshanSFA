@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.darshansfa">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        tools:replace="android:icon"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activities.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activities.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.DSRDashboardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.StockActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.RetailerListActivity"
+            android:screenOrientation="portrait" />
+        <!--
+             Set color used with incoming notification messages. This is used when no color is set for the incoming
+             notification message. See README(https://goo.gl/6BKBk7) for more.
+        -->
+        <activity
+            android:name=".Activities.RetailerDetailTabActivity"
+            android:label="@string/title_activity_retailer_detail_tab"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".Activities.PartSearchActivity"
+            android:label="@string/title_activity_part_search"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
+            android:name=".Activities.CartActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.CreatePJPDayWiseActivity"
+            android:label="@string/title_activity_create_pjp"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Activities.DayCloseActivity"
+            android:label="@string/title_activity_day_close"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Activities.PJPMapsActivity"
+            android:label="@string/title_activity_pjpmaps"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.PJPMapActivity"
+            android:label="@string/title_activity_pjpmap"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Activities.CreatePJPDateWiseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.DSRReportActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.OrderCollectionActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Activities.CollectionActivity" />
+        <activity
+            android:name=".Activities.AddRetailerActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".Activities.CaptureSignature"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".Activities.NoteActivity"
+            android:label="@string/title_activity_note"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity android:name=".Activities.AddUpdateNoteActivity" />
+        <activity
+            android:name=".Activities.NoUIActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent" />
+        <activity
+            android:name=".Activities.OrderDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.SalesReturnActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.RetailerDashboardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.MapsDummy"
+            android:label="@string/title_activity_maps_dummy" />
+        <activity
+            android:name=".Activities.ForgotPassword"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.ChangePassword"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activities.BackOrderDetailsActivity"
+            android:screenOrientation="portrait" />
+        <meta-data
+            android:name="DATABASE"
+            android:value="app.db" />
+
+        <meta-data
+            android:name="VERSION"
+            android:value="1" />
+        <meta-data
+            android:name="QUERY_LOG"
+            android:value="true" />
+        <meta-data
+            android:name="DOMAIN_PACKAGE_NAME"
+            android:value="com.darshansfa.dbModel" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/cart_icon" />
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorAccent" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+        <service android:name=".Utility.LocationTrackService" />
+        <service
+            android:name="com.amazonaws.mobileconnectors.s3.transferutility.TransferService"
+            android:enabled="true" />
+        <service android:name=".fcm.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".fcm.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+    </application>
+
+</manifest>

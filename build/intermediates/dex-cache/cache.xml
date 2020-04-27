@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/6aebfe125dad71e49b4717f35ebf3db0dc137ce5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fec43a847d8788b7642a1932e6266ef8bdab169">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_f935212e644f07145adb9c960ed1485a78120575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/ce7fda964ff53df6c711018f69e555459aba9975/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_3309b6990719469ba3da707e182665da52825eef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.2.0/a56f28d5b7fab623c6c1d2afa08dd496d873ac21/logging-interceptor-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.2.0_e75c7f5908fe2a56ccd4e5f78b1ffcf04ab5645e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/7a7b8be2a6878e12042bb4790efc4e9031756c42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_0f7e3a67fb4b986e5576c85cc5582a182339e541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/666a2e2072a0d01e3690515a2363ae9ee954bcf9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_fd1d39e49f039c54aa3bf40489637c141792a21b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/libs/mint-5.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="472b86b7f42c4ee403108b6166a7c0279449829c">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/mint-5.2.2_bb880b1ad9396e21d38d3667bd4480aa1c5301b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/support-annotations-28.0.0_c6324f1542ba95dcd06285426597238130e13d6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.2.22/40fe82092e0ae3ca549b132a1e7e876807525176/aws-android-sdk-s3-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.2.22_4af266b9228cc250d330f4dd44b6c9bb185fed38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/5fcf96ab724f9ba6e73a04ddd0754959e7df3ec8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_93f8f38d024ed6ba586ef639e4a6762a53884658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/aaf7ec3c26de6a772d7e9935a48835a0b872a5a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_cf055b8b9edcaf6f7f98cdb1f4b31dfd2e2d3e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/glide-3.7.0_691806f9dc46779feb324c2c70486d02a4804b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_7879ff86900ca57e10b02c55ca0c66f882f2ec09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_75307eca110c932d50494e018cb1a76b1092c83f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/e55a6c6fe8d71cabae87d3427e456a5edb74a7ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_6b6aab1996b5c63e4f21f757fa8afc61d0d1bdcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/277545693cbb1878aa50fe3ac2f9bff6426bea8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_280751659d77eaa46ef4537b3ad56d0b60a7b97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/5972efca7eea9a38834b4ae0c85c022bc11a4bf9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_c0cceb7ab57005e154426c7458be38cfb7a3f425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/46632bddb1b83ae594cdad3a5306090ccfed50d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_daf7e32fa6b8d132f989bfd0f2671ed04d4f89c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/6dcaa5abb66e8f0e97d316ad7351a796ed71506b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_35de3bfbd856a9ae1f1acfa94e89940842c94d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/613706e843efcbaa90577e1c3e0c378a1a1c1399/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_27c737fc340fee07cf96a483c6b27650da0220b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/db782d3cd71d4f356a2bed6ce66fb85825025c63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_d7b24c4962912b3706f93a41f053fbdd98c872f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_2cebc949c772b953bd78085cda086ae59926b648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/bd9026c1f12d8ddb1b814db3819e4e5ffcab58ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ada02cfa6d6403e90138de411c67d8f6763b3018">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_2e8a22b6eab500e9e632474b84f19a690ca877cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/78566c90d9b475dd0ddb8788fe3137d72a0be7a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_8fe36649723c4fec9f6d09ae93093d4c5db17d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/88f7837edf635de9ed0f759a25eb5dbf342ce773/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_2e3f365dbb4101ef1f4a440f9836921a1e74fdc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/1df474a03bc848b5413b6956ef987af43774b626/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_5987d52c350d9246c53acba5c7c6f4562693134c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/b47ba6643a2902ee39c17601e7016debb7ba5695/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_bc0708ed43124cb5521a136de4e0abc57334cad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/4023f8c82497f8496f338758ec769788fb6824e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31b98191e7c892b25799dbe30c8124210a68e201">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_fb60c1492e65d53a498540b8c101cea73495787d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/3f743c6badaaca23ceec117c6a6b72815a28a79b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_6ccd020b534e3b941b97ad46205b26deced6cb47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/17a8ba8a0b425dabfe796a223c6969f9bdb36f6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_a47a09cfb783634d5d479a5e080fbaabcb6e3ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/d05a705fcd3ec1ed8d8ee0dbe74cc112b11b944f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_d9235a7d9155431174353afa9f3e17385464a193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/6d4762e0d8a25b8059d3cba8e0445c0a9f6e1e56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19a40a8afe0289f6520b25353096ac233e78f69d">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_ad8491fb7fdb54d46e115add4b906c665e284da7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/3bb46e7061a07ea4378ea69e55afc8ad1b6f1c1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_530e5a6e6f3488d4f56048322c5bec81113c10fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/0d7e26b787d02374f1d780d444de56eb9e3ba0cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_1cf2f8554037eb9d1089e7970e2fad629ccb29ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/ee5884759ad33eed979ef32254bddd1bce055fcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_50b21e8fca1499893396f2022446b3255d3c8554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/f93fa0e1ac03c0018f985c99b2f5bdddd65ae787/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_339dce82cd7bc11143851f16ffc08f4a31279ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/883592f5201e9d03e71bc651daea9898687b2379/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_99d257c1199d7cdf9d1349c3b79fea17f04ce5bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_4dae1711e4bd19424a72f560e04cf6d71960b81b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_6e4f66c6c608a332a9325429cb4945a24f234c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/7a3aa4512328225bdd45d777ded2322c4ac6c509/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_123d4d76cad5739335369e514bccea774bb0b2d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/364e5776f5a386284979fc2f3a224a96799ffdb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_48e316c341ac9951eeb7441d07cc849910d48993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/1ed8ab80bf9aea9dfeba767a3ed0face47a0fb1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_f27f78bd098439c29de388a6ff2c7d7e4c9b331c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/c70e38668eb3553ee6275086b3f46cc2c13ab390/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_72d3b21cd67fc7cee4913ecad653a099bff4ff93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/ae284b18ce4ce098d7cf4049fa4abf4a4f46d03a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01a590e11a94cb7f5c8b1243d4a2783eab4d0a34">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_fd4145fec72e5e7f9fcb82c0db04340d72995625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/okio-1.6.0_a66bde4e6b0610a6c7f05b7e225babe22fb8b0f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/c90d6e16df653b7b8fb3819afc27b3de7e484d44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_d9c1f25f30686931c71aaa90083e1230de66f0a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/71fc3ac8521dca809fbf6d7aacde1acf42b2b930/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57717bc4b81722a9c3e481fc6f150a950afd550c">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_c838d358572f568072061aaf574d01e736d20dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.11.3/36da09a8f68484523fa2aaa100399d612b247d67/jsoup-1.11.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36da09a8f68484523fa2aaa100399d612b247d67">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/jsoup-1.11.3_7375f209a939f476c31c710eafe76f5261914d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/collections-28.0.0_ecb80796e7d4cf9e037e959bb4e0a6635659fbd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/4d925f511b41dc8134c0e252b0e1ef3303692c2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_436db62dd96df25e1d0c4ece09ea6120ebd054b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_11d1a15529a748bb0831ff79c16d1383a07f8fde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/50eb922d12a0dd9bacb253496ca60328c43bd467/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_c502b688e0d93cbc3da22056fc7a5c5a7a67a4a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/95ade6b8826bb07d145e08ea6858b4f1f17318ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1c031c4ca26cea0adbe178007dd3bfd311be983">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_1cb6ea410b952fbe066928ac295fec8b83c2acc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/common-1.1.1_76a1eb7d0f95a7cfc579cd054667654a802b90fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/0c3a260550b8105298bd96d5931d137dece0ee85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef698b3c8609d86cac06834429a39ef417d5b57a">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_9caa04bd69e2fa73855ed0d07255246bb096c64d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.22/c6789de00db9d1f93faec881fa0c1f5960fb8a15/aws-android-sdk-core-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.22_b2f5c3695f66e246b82516877c2f69e77766a755.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/0fbbd7b12703fa6f2c60c269546d397659dd847d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_ec08f65c1ca8fdfc701d7d6efc23743ae4570cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/gson-2.6.1_fdad7ba2264d0fbccf59ee39fea3a5fb040e2f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/9e8eef7da49e8d3cd4c19f6caffedd7b81e72b20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_3a1aec1f10f8f71c39f730aef6a2d41a900a9ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/common-1.1.1_b84bad6bdffd2b16d80a79ba59e032d1aab91c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/ee0e43d9d7058215a6e3a762bae4b015452cea9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_1887fc3f0f5efde4604104f271fb4ca9e867c06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/caede96a6f0952d5119d09544c1060719ab2ddfd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_f91f83c43b6cc761f51b393e6e166d6f995ea7da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/8b7ef0d7cfc64470218b0b729424bcb017ea8036/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_6828815f7b425837eefb802b01a3ff1cf1d7d668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simrandeep/.android/build-cache/829a84a7115cbaebcf821a1825885c76b094afb1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="/Users/simrandeep/Documents/AndroidStudioProjects/DarshanSFA/app/build/intermediates/pre-dexed/debug/classes_75d80a1474f2976409832d69a8379f0fdce491a7.jar" />
+    </item>
+
+</items>

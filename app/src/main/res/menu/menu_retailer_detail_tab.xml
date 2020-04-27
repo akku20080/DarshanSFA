@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.darshansfa.Activities.RetailerDetailTabActivity">
+    <item
+        android:id="@+id/note"
+        android:icon="@drawable/ic_note_24dp"
+        android:orderInCategory="101"
+        android:title="@string/text_profile"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/location"
+        android:icon="@drawable/ic_location"
+        android:orderInCategory="101"
+        android:title="@string/app_name"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profile_default"
+        android:orderInCategory="101"
+        android:title="@string/text_profile"
+        app:showAsAction="always" />
+
+
+</menu>

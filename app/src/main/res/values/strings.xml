@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Darshan SFA</string>
+    <string name="title_activity_retailer_detail_tab">RetailerDetailTabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_coming_soon">Coming Soon...</string>
+    <string name="tab_order">Orders</string>
+    <string name="tab_collection">Collection</string>
+    <string name="tab_adv_collection">Advance Collection</string>
+    <string name="tab_sale_return">Sales Return</string>
+    <string name="tab_new_retailer">New Customer</string>
+    <string name="tab_report">Report</string>
+    <string name="tab_back_order">Back Order</string>
+    <string name="tab_master">Master</string>
+    <string name="tab_category">Category</string>
+    <string name="tab_associate">Associate</string>
+    <string name="tab_focused">Focused</string>
+    <string name="tab_locality">Locality</string>
+
+    <string name="title_activity_part_search">PartSearchActivity</string>
+
+    <string name="text_place_order">Place Order</string>
+    <string name="text_create_pjp">Create PJP</string>
+    <string name="text_no_today_retailer">No schedule for Today</string>
+    <string name="text_no_data">No data, please sync</string>
+    <string name="text_order_amount">Order Amount : </string>
+    <string name="text_collection_amount">Collection Amount : </string>
+    <string name="title_activity_create_pjp">Create PJP</string>
+    <string name="text_search">Parts </string>
+    <string name="title_activity_day_close">DayCloseActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="day_mon">Mon</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_pjpmaps">Map</string>
+    <string name="title_activity_pjpmap">PJPMapActivity</string>
+
+    <string name="text_select_date">Select Date</string>
+    <string name="text_add_part">Add Product</string>
+
+    <string name="text_profile">Profile</string>
+    <string name="text_retailer_location_message">Location yet to be captured</string>
+    <string name="title_activity_note">NoteActivity</string>
+    <string name="accept">Accept</string>
+    <string name="title_activity_no_ui">NoUIActivity</string>
+
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <string name="title_activity_maps_dummy">Map</string>
+</resources>
